@@ -1,7 +1,7 @@
 # What does the code do?
 - download all RSS feeds from the wordpress site
 - filter out all links found in the contents of every RSS item and store them in a file
-- filter out important link types/ domains e.g. google drive, mediafire, delete duplicates and store them in their respective file
+- filter out important link types/ domains e.g. google drive, mediafire etc. and delete duplicates to store them into their respective files
 - filtering was done with regex
 - filepaths are static at times (quick and dirty)
 
