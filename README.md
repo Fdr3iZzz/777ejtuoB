@@ -12,3 +12,7 @@
 
 # I want to download all links from a file?
 - use a download manager like Jdownloader2 to bulk download the files
+- for google drive and boutjefedankt links you might need to provide an account or find a different way (or do it manually)
+
+# I want to view the links categorized:
+- https://github.com/seychellois46/urls/blob/main/britishcomics
